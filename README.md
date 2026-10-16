@@ -13,6 +13,7 @@
 
 <br/>
 
+[![Website](https://img.shields.io/badge/Website-pukar10.com.np-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pukar10.com.np/)
 [![GitHub](https://img.shields.io/badge/GitHub-PukarGh-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PukarGh)
 [![TypeScript](https://img.shields.io/badge/TypeScript-first-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![AI workflows](https://img.shields.io/badge/AI-workflows-7C3AED?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/PukarGh)
@@ -21,7 +22,26 @@
 
 ---
 
-## > whoami
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PukarGh&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PukarGh&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8&langs_count=6" alt="Most used languages on GitHub" />
+
+<img width="95%" src="https://raw.githubusercontent.com/PukarGh/PukarGh/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" />
+
+</div>
+
+## Toolbox
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,php,laravel,aws,terraform,git,github&perline=6)](https://skillicons.dev)
+
+</div>
+
+## About Me
 
 Software engineer and tech lead focused on **scalable backends, cloud infrastructure, and useful AI-assisted engineering workflows**.
 
@@ -32,31 +52,24 @@ const pukar = {
   focus: ["Backend systems", "Cloud architecture", "Agentic development"],
   buildWith: ["TypeScript", "Node.js", "NestJS", "React", "Next.js"],
   cloud: ["AWS", "Terraform", "CI/CD"],
+  website: "https://pukar10.com.np",
   principle: "Understand the problem. Simplify the solution. Verify the result."
 };
 ~~~
 
-## > toolbox
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,php,laravel,aws,terraform,git,github&perline=6)](https://skillicons.dev)
-
-</div>
-
-## > how I work
+## How I Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Systems first
+### 🧠 Systems First
 Trace requirements through the architecture. Respect service boundaries. Question assumptions before they become production problems.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI, with judgment
+### 🤖 AI, With Judgment
 Use agents for exploration, planning, implementation, and verification. Treat generated code as a proposal, not a verdict.
 
 </td>
@@ -64,38 +77,27 @@ Use agents for exploration, planning, implementation, and verification. Treat ge
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Own the outcome
+### 🛠️ Own the Outcome
 Move between application code, infrastructure, releases, and debugging to get the whole feature working.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ Pragmatic engineering
+### ⚖️ Pragmatic Engineering
 Choose the simplest design that meets the real requirements, with room to evolve as the product grows.
 
 </td>
 </tr>
 </table>
 
-## > github telemetry
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PukarGh&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PukarGh&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8&langs_count=6" alt="Most used languages on GitHub" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=PukarGh&bg_color=00000000&color=94A3B8&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
 <details>
-<summary><b>🧩 A little more about my engineering mindset</b></summary>
+<summary><b>🧩 More About My Engineering Mindset</b></summary>
 <br/>
 
-- **Context beats convention.** A standard solution is only good when it fits the system in front of you.
-- **Architecture is a trade-off.** Optimize for the real constraints, not hypothetical perfection.
-- **AI amplifies the process.** Good context, clear plans, and verification matter as much as generation.
-- **Production is part of the feature.** Deployment, observability, security, and maintainability count too.
+- **Context Beats Convention.** A standard solution is only good when it fits the system in front of you.
+- **Architecture Is a Trade-Off.** Optimize for the real constraints, not hypothetical perfection.
+- **AI Amplifies the Process.** Good context, clear plans, and verification matter as much as generation.
+- **Production Is Part of the Feature.** Deployment, observability, security, and maintainability count too.
 
 </details>
 
@@ -103,7 +105,9 @@ Choose the simplest design that meets the real requirements, with room to evolve
 
 <div align="center">
 
-*Build thoughtfully. Ship deliberately. Keep learning.*
+[![Visit my website](https://img.shields.io/badge/Explore-pukar10.com.np-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pukar10.com.np/)
+
+*Build Thoughtfully. Ship Deliberately. Keep Learning.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,55:312E81,100:0B1020&height=100&section=footer" width="100%" alt="" />
 
